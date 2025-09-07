@@ -7,6 +7,7 @@ It shows how concurrency affects performance when handling multiple client reque
 
 ## 📂 Project Structure
 
+```
 WebServer/
 ├── src/main/java/
 │ ├── SingleThreaded/ # Single-threaded server implementation
@@ -14,7 +15,7 @@ WebServer/
 ├── build/ # Build output (Gradle)
 ├── .gradle/ # Gradle settings
 └── test/ # Unit tests
-
+```
 
 ---
 
